@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Caio-Soares1914
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/NODE.JS/REACT
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/NODE.JS/REACT/PYTHON
 - 💻 Caio.evangelistasoares@hotmail.com 
 
 <!---
